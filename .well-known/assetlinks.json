@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.joinn.demo",
+      "sha256_cert_fingerprints": [
+        "C4:39:DC:61:C2:E0:3C:56:23:25:F1:74:39:E5:D8:65:96:4D:DA:3B:5A:C3:93:88:A4:DB:4C:BA:31:2C:DA:B2",
+        "9A:50:5E:C9:25:E2:CF:1B:EC:B2:6B:11:DB:1D:85:56:A4:5E:89:E9:67:4C:3A:78:A8:F8:CD:3A:C0:ED:5B:00"
+      ]
+    }
+  }
+]
