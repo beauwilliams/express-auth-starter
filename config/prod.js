@@ -1,5 +1,4 @@
-
 module.exports = {
-  jwtSecret: process.env.JWT_SECRET,
-  mongoURI: process.env.MONGO_URI
-}
+  jwtSecret: "make up your own secret",
+  mongoURI: "mongodb://localhost:auth/auth",
+};
